@@ -1,0 +1,4 @@
+Comando para generar el archivo que detalla los paquetes del proyecto:
+pip freeze > requirements.txt
+Comando para instalar todos los paquetes necesarios:
+pip install -r requirements.txt
